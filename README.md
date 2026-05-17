@@ -191,4 +191,4 @@ To do so, install the [ViGEmBus](https://github.com/nefarius/ViGEmBus/releases/t
 
 # Build from source
 
-UPDATE ME
+-to add
