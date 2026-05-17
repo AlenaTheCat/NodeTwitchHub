@@ -189,6 +189,6 @@ Add "TTS" as a redeem with user input enabled
 The program has the ability to allow Twitch chat to control a virtual x360 controller
 To do so, install the [ViGEmBus](https://github.com/nefarius/ViGEmBus/releases/tag/v1.22.0) driver (also located in the /Optional Drivers/ folder)
 
-#Build from source
+# Build from source
 
 UPDATE ME
