@@ -61,25 +61,6 @@ One will be picked randomly to play during a raid with a 50/50 chance
     - shown when the creature disappears in the distance
 </details>
 <details>
-<summary>Alert Box</summary>
-
-  ### Place video files in /userfile/AlertBox/Video/ folder
-  These play when someone follows
-- 1.mp4
-    - About 3/7 chance
-- 2.mp4
-    - About 3/7 chance
-- Rare.mp4
-    - About 1/7 chance
-- ExtremelyRare.mp4
-    - About 1/100 chance
-
-### Place audio files in /userfile/AlertBox/Audio/ folder
-One will be picked randomly to play during a raid with a 50/50 chance
-- Raid.mp3
-- Raid2.mp3 
-</details>
-<details>
 <summary>Redeem Counter</summary>
 
   ### Add audio files to /userfiles/RedeemCounter/Audio/ folder
@@ -101,25 +82,6 @@ One will be picked randomly to play during a raid with a 50/50 chance
  ### Add image files to /userfiles/RedeemCounter/ folder
 - Counteroverlay.png
     - 600x600px can be animated
-</details>
-<details>
-<summary>Alert Box</summary>
-
-  ### Place video files in /userfile/AlertBox/Video/ folder
-  These play when someone follows
-- 1.mp4
-    - About 3/7 chance
-- 2.mp4
-    - About 3/7 chance
-- Rare.mp4
-    - About 1/7 chance
-- ExtremelyRare.mp4
-    - About 1/100 chance
-
-### Place audio files in /userfile/AlertBox/Audio/ folder
-One will be picked randomly to play during a raid with a 50/50 chance
-- Raid.mp3
-- Raid2.mp3 
 </details>
 <details>
 <summary>Shoutouts</summary>
