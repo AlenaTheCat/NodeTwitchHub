@@ -241,6 +241,10 @@ Example messages:
 
 **HTML/CSS/JS knowledge is required**
 
+- Overlays don't neccessarily need to have visuals to them, but they do need to be loaded and active.
+
+- You can optionally use a standalone javascript application for that purpose, which is likely faster/more optimized, but not required. HTMLs should be fine, as having even a couple dozen "empty" html pages loaded in OBS won't really affect performance in any meaningful way.
+
 ### Option 1 - From Template HTML
 
 Create a copy of the OverlayTemplate.html in /overlays/
@@ -336,6 +340,12 @@ ViGEm valid buttons and sticks:
 ~~~
   
 </details>
+
+# Connecting to other apps or modding games
+
+The game or app does not need to be built in Node or JavaScript, it just needs a compatible socket.io library.
+
+Add applicable socket.io library to your mod/app, then adapt existing events to your chosen library's syntax. 
 
 # Build from source
 Created in Visual Studio 2026 using NodeJS v24.14.0
