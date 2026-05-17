@@ -1,9 +1,7 @@
 #MyIgnores
 console.log
 consoleverbose.log
-secret.json
-config.json
-viewerstreaks.json
+
 *.mp3
 *.mp4
 *.gif
