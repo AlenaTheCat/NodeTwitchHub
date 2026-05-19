@@ -321,6 +321,7 @@ Install node packages
 <details>
 <summary>Package List</summary>
 
+- @angablue/exe@3.2.5 `needed for build.bat to function`
 - comfy.js@1.1.29
 - dotenv@16.4.1
 - express@4.21.2
