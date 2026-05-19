@@ -4,17 +4,10 @@ A local twitch overlay/integration system
 ## Installation
 Grab the latest [release](https://github.com/AlenaTheCat/NodeTwitchHub/releases)
 
-> In /userfiles/ rename configtemplate.json to config.json
-> 
-> In /userfiles/ rename secrettemplate.json to secret.json
-> 
-> In /userfiles/StampCard/ rename viewerstreakstemplate.json to viewerstreaks.json
-> 
-> (fix pending)
-
-
 Run CatTwitchHub.exe
+
 open [localhost:3000](http://localhost:3000) in your browser
+
 Press "Login to Twitch", then the ? button for login instructions
 <img width="877" height="390" alt="image" src="https://github.com/user-attachments/assets/c8614761-5895-4ff1-9927-09224142a6f4" />
 
@@ -172,11 +165,11 @@ To do so, install the [ViGEmBus](https://github.com/nefarius/ViGEmBus/releases/t
     up, u
     down, d
 
-    Triggers: [trigger] [strength(0 to 100)] [modifier]
+    Trigger format: [trigger] [strength(0 to 100)] [modifier]
     left_trigger, lefttrigger, lt
     right_trigger, righttrigger, rt
 
-    Sticks: [stick] [x(-100 to 100)] [y(-100 to 100)] [modifier]
+    Stick format: [stick] [x(-100 to 100)] [y(-100 to 100)] [modifier]
     left_stick, leftstick, ls
     right_stick, rightstick, rs
 
